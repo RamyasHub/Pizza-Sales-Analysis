@@ -1,6 +1,6 @@
 # Pizza-Sales-Analysis using MS SQL SERVER and POWER BI
 
-![dashboard](pizzasales.png)
+![dashboard](Pizza-Sales-Report.png)
 
 ## Project Overview
 The Pizza Sales data in Excel is being analysed in MS SQL SERVER to get the Data values for analysis .Data ia also cleaned ,transformed and analysed using Power Query and also various measures are created to calculate various KPI's in Pizza Sales Data.
